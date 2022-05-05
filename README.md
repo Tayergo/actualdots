@@ -1,6 +1,6 @@
 # These are the dotfiles for my "Desktop Environment" AKA "FanDE" Including:
 
-Window Manager (i3)
+Window Manager (i3-gaps)
 
 Bar (Polybar)
 
