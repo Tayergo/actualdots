@@ -1,4 +1,4 @@
-# These are the dotfiles for my "Desktop Environment" AKA "FanDE" Including:
+# These are the dotfiles for my "Desktop Environment" Including:
 
 Window Manager (i3-gaps)
 
