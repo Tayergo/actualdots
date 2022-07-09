@@ -13,7 +13,7 @@ Compositor (picom-*JONASBERG*)
 # SEE ALL READMES!
 Also know that you'll likely have to manually implement these dotfiles individually. 
 
-If you need help, DM me on discord, Xeon#4208
+If you need help, DM me on discord, ask for my discord username & tag on github or smth idk
 
 "misc" folder is rofi files
 
